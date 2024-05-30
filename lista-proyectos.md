@@ -1,5 +1,6 @@
 ## 105 Proyectos para JavaScript que te permitirán crecer
-1. Calculadora simple.
+
+1. Calculadora simple. ✅
 2. Lista de tareas (To-Do List).
 3. Reloj digital.
 4. Convertidor de unidades (por ejemplo, de grados Celsius a Fahrenheit).
@@ -49,58 +50,58 @@
 48. Construir un juego de rompecabezas.
 49. Desarrollar un juego de rol en tiempo real (RPG).
 50. Crear un juego de serpiente (Snake).
-Desarrollar una aplicación de lista de contactos.
-Construir una aplicación de recordatorios y tareas pendientes.
-Crear una aplicación de seguimiento de hábitos.
-Desarrollar una aplicación de lectura de códigos QR.
-Crear una experiencia de realidad virtual o aumentada utilizando A-Frame o AR.js.
-Desarrollar una aplicación de navegación en realidad aumentada.
-Construir una galería de arte en realidad virtual.
-Construir tu propia API para proporcionar datos o servicios.
-Consumir APIs de terceros para crear aplicaciones de utilidad.
-Plataforma de blogging personalizada con múltiples usuarios.
-Juego de crucigramas.
-Aplicación de pronóstico del tráfico en tiempo real.
-Calculadora de hipotecas.
-Plataforma de aprendizaje en línea con seguimiento del progreso.
-Juego de preguntas y respuestas (Trivia).
-Aplicación de recomendación de libros o películas basada en intereses.
-Aplicación de mapas para encontrar lugares de interés cercanos.
-Crear una plataforma de citas en línea.
-Simulador de mercado de valores.
-Plataforma de búsqueda de empleo y envío de currículums.
-Crear una animación interactiva con HTML5 y Canvas.
-Juego de dibujo en línea.
-Generador de gráficos y visualizaciones personalizadas.
-Animación de personajes en un juego 2D.
-Crear un visor de imágenes 360°.
-Proyectos de Automatización y IoT:
-Controlar dispositivos IoT a través de una aplicación web.
-Sistema de monitoreo de sensores en tiempo real.
-Automatizar tareas domésticas con JavaScript y hardware.
-Crear un sistema de riego automático basado en sensores.
-Aplicación de autenticación de dos factores (2FA) para mayor seguridad.
-Crear una aplicación de gestión de contraseñas.
-Sistema de detección de intrusiones en una red local.
-Desarrollar un chatbot para atención al cliente.
-Crear un chatbot de asistencia para turistas.
-Implementar un chatbot de programación que responde preguntas técnicas.
-Plataforma de aprendizaje de idiomas con reconocimiento de voz.
-Aplicación de matemáticas interactivas para niños.
-Juego educativo para aprender geografía.
-Sistema de evaluación y calificación en línea.
-Aplicación de aprendizaje automático para reconocimiento de patrones.
-Simulador de vuelo en realidad virtual.
-Visita virtual a museos o sitios históricos.
-Aplicación de recorrido virtual por propiedades inmobiliarias.
-Simulador de laboratorio virtual para experimentos científicos.
-Plataforma de investigación en línea con colaboración en tiempo real.
-Aplicación de modelado 3D para experimentos científicos.
-Secuenciador musical en línea.
-Generador de música algorítmica.
-Aplicación de mezcla de audio en línea.
-Crear un sintetizador de sonido interactivo.
-Desarrollar un chatbot de IA con capacidad de respuesta natural.
-Crear un sistema de recomendación de productos basado en el historial de compras.
-Implementar una aplicación de reconocimiento de objetos utilizando redes neuronales.
-Aplicación de análisis de sentimientos en redes sociales.
+51. Desarrollar una aplicación de lista de contactos.
+52. Construir una aplicación de recordatorios y tareas pendientes.
+53. Crear una aplicación de seguimiento de hábitos.
+54. Desarrollar una aplicación de lectura de códigos QR.
+55. Crear una experiencia de realidad virtual o aumentada utilizando A-Frame o AR.js.
+56. Desarrollar una aplicación de navegación en realidad aumentada.
+57. Construir una galería de arte en realidad virtual.
+58. Construir tu propia API para proporcionar datos o servicios.
+59. Consumir APIs de terceros para crear aplicaciones de utilidad.
+60. Plataforma de blogging personalizada con múltiples usuarios.
+61. Juego de crucigramas.
+62. Aplicación de pronóstico del tráfico en tiempo real.
+63. Calculadora de hipotecas.
+64. Plataforma de aprendizaje en línea con seguimiento del progreso.
+65. Juego de preguntas y respuestas (Trivia).
+66. Aplicación de recomendación de libros o películas basada en intereses.
+67. Aplicación de mapas para encontrar lugares de interés cercanos.
+68. Crear una plataforma de citas en línea.
+69. Simulador de mercado de valores.
+70. Plataforma de búsqueda de empleo y envío de currículums.
+71. Crear una animación interactiva con HTML5 y Canvas.
+72. Juego de dibujo en línea.
+73. Generador de gráficos y visualizaciones personalizadas.
+74. Animación de personajes en un juego 2D.
+75. Crear un visor de imágenes 360°.
+76. Proyectos de Automatización y IoT:
+77. Controlar dispositivos IoT a través de una aplicación web.
+78. Sistema de monitoreo de sensores en tiempo real.
+79. Automatizar tareas domésticas con JavaScript y hardware.
+80. Crear un sistema de riego automático basado en sensores.
+81. Aplicación de autenticación de dos factores (2FA) para mayor seguridad.
+82. Crear una aplicación de gestión de contraseñas.
+83. Sistema de detección de intrusiones en una red local.
+84. Desarrollar un chatbot para atención al cliente.
+85. Crear un chatbot de asistencia para turistas.
+86. Implementar un chatbot de programación que responde preguntas técnicas.
+87. Plataforma de aprendizaje de idiomas con reconocimiento de voz.
+88. Aplicación de matemáticas interactivas para niños.
+89. Juego educativo para aprender geografía.
+90. Sistema de evaluación y calificación en línea.
+91. Aplicación de aprendizaje automático para reconocimiento de patrones.
+92. Simulador de vuelo en realidad virtual.
+93. Visita virtual a museos o sitios históricos.
+94. Aplicación de recorrido virtual por propiedades inmobiliarias.
+95. Simulador de laboratorio virtual para experimentos científicos.
+96. Plataforma de investigación en línea con colaboración en tiempo real.
+97. Aplicación de modelado 3D para experimentos científicos.
+98. Secuenciador musical en línea.
+99. Generador de música algorítmica.
+100. Aplicación de mezcla de audio en línea.
+101. Crear un sintetizador de sonido interactivo.
+102. Desarrollar un chatbot de IA con capacidad de respuesta natural.
+103. Crear un sistema de recomendación de productos basado en el historial de compras.
+104. Implementar una aplicación de reconocimiento de objetos utilizando redes neuronales.
+105. Aplicación de análisis de sentimientos en redes sociales.
